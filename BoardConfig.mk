@@ -26,7 +26,7 @@
 # inherit from the proprietary version
 -include vendor/samsung/jfltetmo/BoardConfigVendor.mk
 
-TARGET_GCC_VERSION := 4.6
+#TARGET_GCC_VERSION := 4.6
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := jfltetmo
